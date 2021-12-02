@@ -10652,7 +10652,7 @@ comuna = {
             },
             "properties": {
                 "NOM_COMUNA": "SANTIAGO",
-                "ESTABLECIM": "5"
+                "ESTABLECIM": "10"
             }
         }
     ]
