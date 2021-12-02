@@ -11,7 +11,7 @@ puntos = {
                 ]
             },
             "properties": {
-                "ESABLECIMIENTOS": "13",
+                "ESABLECIMIENTOS": "13"
             }
         },
     ]
